@@ -1,0 +1,15 @@
+.sahi{
+    color:rgb(47, 63, 207);
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}       
+th{
+    background-color:rgb(21, 93, 151);
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1614852206758-0caebadbba66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGxpZ2h0JTIwY29sb3VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    background-position:center;
+    background-size:cover;
+}
